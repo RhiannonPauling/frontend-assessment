@@ -17,4 +17,4 @@ Exercise 2 - assessment-2 folder
 
 * Explain why the result of `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana`.
 
-- The + + is an invalid expression which returns NaN (not a number) and then the whole string is coverted to lowercase hence the 'nan'.
+- The + + 'a' is an invalid expression which returns NaN (not a number) and then the whole string is coverted to lowercase hence the 'nan'.
