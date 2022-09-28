@@ -1,0 +1,31 @@
+.banner {
+  position: relative;
+  color: white;
+
+  &__text-area {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+  }
+
+  &__img {
+    filter: brightness(70%);
+  }
+
+  &__header {
+    font-weight: 900;
+    font-size: 3.5rem;
+  }
+
+  &__text {
+    font-weight: normal;
+    font-size: 1.8rem;
+
+    @media (max-width: 768px) { 
+      font-size: 1.6rem;
+    }
+  }
+}
