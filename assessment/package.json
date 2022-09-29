@@ -11,10 +11,7 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
     "core-js": "^3.8.3",
-<<<<<<< HEAD
     "style-loader": "^3.3.1",
-=======
->>>>>>> 3a66a1ca106d87103748b3f34facff5088208394
     "vue": "^3.2.40",
     "vue3-rich-accordion": "^0.0.7"
   },
@@ -25,13 +22,9 @@
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
-<<<<<<< HEAD
     "eslint-plugin-vue": "^8.0.3",
     "node-sass": "^7.0.3",
     "sass-loader": "^13.0.2"
-=======
-    "eslint-plugin-vue": "^8.0.3"
->>>>>>> 3a66a1ca106d87103748b3f34facff5088208394
   },
   "eslintConfig": {
     "root": true,
